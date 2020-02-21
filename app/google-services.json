@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "937113834813",
+    "firebase_url": "https://allwrite-1186e.firebaseio.com",
+    "project_id": "allwrite-1186e",
+    "storage_bucket": "allwrite-1186e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:937113834813:android:4637d9eff0ec7654452154",
+        "android_client_info": {
+          "package_name": "hyerim.my.allwirte"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "937113834813-20u97rvcpqd4p8kg4gvb333pfqrq5c9n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9QxVQ8ycYROQa64gFJRxrMYUKt4VdP5s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "937113834813-20u97rvcpqd4p8kg4gvb333pfqrq5c9n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
